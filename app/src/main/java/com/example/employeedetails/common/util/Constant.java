@@ -7,6 +7,6 @@ public interface Constant {
 
     interface HttpReqParamKey {
         String PAGE = "page";
-        String PER_PAGE = "per_page";
+        String PER_PAGE = "delay";
     }
 }
