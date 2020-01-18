@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding_53dp">53dp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+    <dimen name="margin_padding_11dp">11dp</dimen>
+    <dimen name="margin_padding_11_5dp">11.5dp</dimen>
+    <dimen name="margin_padding_12dp">12dp</dimen>
+    <dimen name="margin_padding_12_5dp">12.5dp</dimen>
+    <dimen name="margin_padding_13dp">13dp</dimen>
+    <dimen name="margin_padding_13_5dp">13.5dp</dimen>
+    <dimen name="margin_padding_14dp">14dp</dimen>
+    <dimen name="margin_padding_14_5dp">14.5dp</dimen>
+    <dimen name="margin_padding_15dp">15dp</dimen>
+    <dimen name="margin_padding_15_5dp">15.5dp</dimen>
+    <dimen name="margin_padding_16dp">16dp</dimen>
+    <dimen name="margin_padding_16_dp">16.5dp</dimen>
+    <dimen name="margin_padding_17dp">17dp</dimen>
+    <dimen name="margin_padding_17_5dp">17.5dp</dimen>
+    <dimen name="margin_padding_18dp">18dp</dimen>
+    <dimen name="margin_padding_18_5dp">18.5dp</dimen>
+    <dimen name="margin_padding_19dp">19dp</dimen>
+    <dimen name="margin_padding_19_5dp">19.5dp</dimen>
+    <dimen name="margin_padding_20dp">20dp</dimen>
+    <dimen name="margin_padding_20_5dp">20.5dp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="margin_padding_67dp">67dp</dimen>
+    <dimen name="margin_padding_64dp">64dp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="margin_padding_50dp">50dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="margin_padding_3dp">3dp</dimen>
+    <dimen name="margin_padding_4dp">4dp</dimen>
+    <dimen name="margin_10_dp">10dp</dimen>
+    <dimen name="marging_45">45dp</dimen>
+</resources>

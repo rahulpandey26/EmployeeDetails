@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeDetails</string>
+    <string name="retry">Retry</string>
+    <string name="uh_oh">Uh-Oh</string>
+    <string name="network_error_message">Your internet connection is down.\nCheck its settings &amp; try again.</string>
+
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="employee_details">Employee Details</string>
+</resources>
